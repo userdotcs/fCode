@@ -14,7 +14,7 @@ In a file named "main.fcode" write:
 print("Hello World!")
 wait_input()
 ```
-Write the file path of this file in the FCode SDK. Output:
+Write the file path of this file in the FCode SDK. Output(After FCode 1.1):
 ```
 Hello World!
 ```
@@ -25,11 +25,11 @@ name = input("What's your name? ")
 print("Hello " + name + "!")
 wait_input()
 ```
-Output:
+Output(After FCode 1.1):
 ```
 What's your name? John
 Hello John!
-``` 
+```
 or;</br>
 Code:
 ```
@@ -48,7 +48,7 @@ endwhile
 
 wait_input()
 ```
-Output:
+Output(After FCode 1.2):
 ```
 Username: adkgjhdg
 Password: 452452
