@@ -3,11 +3,11 @@ FCode is a scripting language designed for developing console applications. It c
 
 # What's in FCode?
 FCode add list:
-- Math (OK!)
-- Variables (OK!)
-- if (OK!)
-- while (OK!)
-- Import from other files (It has not been added yet.)
+- [x] Math
+- [x] Variables
+- [x] if-else
+- [x] while
+- [ ] Import from other files (It has not been added yet.)
 
 In a file named "main.fcode" write:
 ```
@@ -18,8 +18,7 @@ Write the file path of this file in the FCode SDK. Output:
 ```
 Hello World!
 ```
-
-# Examples
+or;</br>
 Code:
 ```
 name = input("What's your name? ")
@@ -30,9 +29,8 @@ Output:
 ```
 What's your name? John
 Hello John!
-```
-
-
+``` 
+or;</br>
 Code:
 ```
 is_logged = false
