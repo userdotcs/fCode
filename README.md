@@ -8,3 +8,6 @@ fCode add list:
 - [x] if-else
 - [x] while
 - [ ] Import from other files (It has not been added yet.)
+
+# Turkish Developer Server
+https://discord.gg/7e477abxmy
